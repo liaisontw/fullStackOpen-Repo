@@ -21,15 +21,15 @@
 
 ### Part 0 Fundamentals of Web apps
 
-a General info
-b Fundamentals of Web apps
-Exercises 0.1.-0.6.
-0.1  : HTML
-0.2  : CSS
-0.3  : HTML forms
-0.4  : New note
-0.5  : Single page app
-0.6  : New note
+- a General info
+- b Fundamentals of Web apps
+- Exercises 0.1.-0.6.
+- 0.1  : HTML
+- 0.2  : CSS
+- 0.3  : HTML forms
+- 0.4  : New note
+- 0.5  : Single page app
+- 0.6  : New note
 
 ### Part 1: Introduction to React
 
