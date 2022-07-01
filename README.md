@@ -21,8 +21,8 @@
 
 ### Part 0: Fundamentals of Web apps
 
-- a General info
-- b Fundamentals of Web apps
+- a: General info
+- b: Fundamentals of Web apps
 - Exercises 0.1.-0.6.
 - 0.1  : HTML
 - 0.2  : CSS
@@ -33,10 +33,10 @@
 
 ### Part 1: Introduction to React
 
-- a Introduction to React
-- b Javascript
-- c Component state, event handlers
-- d A more complex state, debugging React apps
+- a: Introduction to React
+- b: Javascript
+- c: Component state, event handlers
+- d: A more complex state, debugging React apps
 - Exercises 1.1.-1.14
 - 1.1  : course information, step1
 - 1.2  : course information, step2
@@ -56,67 +56,67 @@
 
 ### Part 2: Communicating with server
 
-- a Rendering a collection, modules
-- b Forms
-- c Getting data from server
-- d Altering data in server
-- e Adding styles to React app
+- a: Rendering a collection, modules
+- b: Forms
+- c: Getting data from server
+- d: Altering data in server
+- e: Adding styles to React app
 
 ### Part 3: Programming a server with NodeJS and Express
 
-- a Node.js and Express
-- b Deploying app to internet
-- c Saving data to MongoDB
-- d Validation and ESLint
+- a: Node.js and Express
+- b: Deploying app to internet
+- c: Saving data to MongoDB
+- d: Validation and ESLint
 
 ### Part 4: Testing Express servers, user administration
 
-- a Structure of backend application, introduction to testing
-- b Testing the backend
-- c User administration
-- d Token authentication
+- a: Structure of backend application, introduction to testing
+- b: Testing the backend
+- c: User administration
+- d: Token authentication
 
 ### Part 5: Testing React apps, custom hooks
 
-- a Login in frontend
-- b props.children and proptypes
-- c Testing React apps
-- d End to end -testing
+- a: Login in frontend
+- b: props.children and proptypes
+- c: Testing React apps
+- d: End to end -testing
 
 ### Part 6: State management with Redux
 
-- a Flux-architecture and Redux
-- b Many reducers
-- c Communicating with server in a redux application
-- d connect
+- a: Flux-architecture and Redux
+- b: Many reducers
+- c: Communicating with server in a redux application
+- d: connect
 
 ### Part 7: React router, styling app with CSS and webpack
 
-- a React-router
-- b Custom hooks
-- c More about styles
-- d Webpack
-- e Class components, E2E-testing
-- f Exercises: extending the bloglist
+- a: React-router
+- b: Custom hooks
+- c: More about styles
+- d: Webpack
+- e: Class components, E2E-testing
+- f: Exercises: extending the bloglist
 
 ### Part 8: GraphQL
 
-- a GraphQL-server
-- b React and GraphQL
-- c Database and user administration
-- d Login and updating the cache
-- e Fragments and subscriptions
+- a: GraphQL-server
+- b: React and GraphQL
+- c: Database and user administration
+- d: Login and updating the cache
+- e: Fragments and subscriptions
 
 ### Part 9: Typescript
 
-- a Background and Introduction
-- b First Steps with Typescript
-- c Typing express app
-- d React with types
+- a: Background and Introduction
+- b: First Steps with Typescript
+- c: Typing express app
+- d: React with types
 
 ### Part 10: React Native
 
-- a Introduction to React Native
-- b React Native basics
-- c Communicating with server
-- d Testing and extending our application
+- a: Introduction to React Native
+- b: React Native basics
+- c: Communicating with server
+- d: Testing and extending our application
