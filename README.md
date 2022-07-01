@@ -19,7 +19,7 @@
 
 ## Course content
 
-### Part 0 Fundamentals of Web apps
+### Part 0: Fundamentals of Web apps
 
 - a General info
 - b Fundamentals of Web apps
@@ -33,90 +33,90 @@
 
 ### Part 1: Introduction to React
 
-a Introduction to React
-b Javascript
-c Component state, event handlers
-d A more complex state, debugging React apps
-Exercises 1.1.-1.14
-1.1  : course information, step1
-1.2  : course information, step2
-1.3  : course information, step3
-1.4  : course information, step4
-1.5  : course information, step5
-1.6  : unicafe step1
-1.7  : unicafe step2
-1.8  : unicafe step3
-1.9  : unicafe step4
-1.10 : unicafe step5
-1.11*: unicafe step6
-1.12*: anecdotes step1
-1.13*: anecdotes step2
-1.14*: anecdotes step3
+- a Introduction to React
+- b Javascript
+- c Component state, event handlers
+- d A more complex state, debugging React apps
+- Exercises 1.1.-1.14
+- 1.1  : course information, step1
+- 1.2  : course information, step2
+- 1.3  : course information, step3
+- 1.4  : course information, step4
+- 1.5  : course information, step5
+- 1.6  : unicafe step1
+- 1.7  : unicafe step2
+- 1.8  : unicafe step3
+- 1.9  : unicafe step4
+- 1.10 : unicafe step5
+- 1.11*: unicafe step6
+- 1.12*: anecdotes step1
+- 1.13*: anecdotes step2
+- 1.14*: anecdotes step3
 
 
 ### Part 2: Communicating with server
 
-- Rendering a collection, modules
-- Forms
-- Getting data from server
-- Altering data in server
-- Adding styles to React app
+- a Rendering a collection, modules
+- b Forms
+- c Getting data from server
+- d Altering data in server
+- e Adding styles to React app
 
 ### Part 3: Programming a server with NodeJS and Express
 
-- Node.js and Express
-- Deploying app to internet
-- Saving data to MongoDB
-- Validation and ESLint
+- a Node.js and Express
+- b Deploying app to internet
+- c Saving data to MongoDB
+- d Validation and ESLint
 
 ### Part 4: Testing Express servers, user administration
 
-- Structure of backend application, introduction to testing
-- Testing the backend
-- User administration
-- Token authentication
+- a Structure of backend application, introduction to testing
+- b Testing the backend
+- c User administration
+- d Token authentication
 
 ### Part 5: Testing React apps, custom hooks
 
-- Login in frontend
-- props.children and proptypes
-- Testing React apps
-- End to end -testing
+- a Login in frontend
+- b props.children and proptypes
+- c Testing React apps
+- d End to end -testing
 
 ### Part 6: State management with Redux
 
-- Flux-architecture and Redux
-- Many reducers
-- Communicating with server in a redux application
-- connect
+- a Flux-architecture and Redux
+- b Many reducers
+- c Communicating with server in a redux application
+- d connect
 
 ### Part 7: React router, styling app with CSS and webpack
 
-- React-router
-- Custom hooks
-- More about styles
-- Webpack
-- Class components, E2E-testing
-- Exercises: extending the bloglist
+- a React-router
+- b Custom hooks
+- c More about styles
+- d Webpack
+- e Class components, E2E-testing
+- f Exercises: extending the bloglist
 
 ### Part 8: GraphQL
 
-- GraphQL-server
-- React and GraphQL
-- Database and user administration
-- Login and updating the cache
-- Fragments and subscriptions
+- a GraphQL-server
+- b React and GraphQL
+- c Database and user administration
+- d Login and updating the cache
+- e Fragments and subscriptions
 
 ### Part 9: Typescript
 
-- Background and Introduction
-- First Steps with Typescript
-- Typing express app
-- React with types
+- a Background and Introduction
+- b First Steps with Typescript
+- c Typing express app
+- d React with types
 
 ### Part 10: React Native
 
-- Introduction to React Native
-- React Native basics
-- Communicating with server
-- Testing and extending our application
+- a Introduction to React Native
+- b React Native basics
+- c Communicating with server
+- d Testing and extending our application
