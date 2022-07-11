@@ -22,6 +22,8 @@ Create a diagram depicting the situation where the user creates a new note on pa
 
 By https://www.websequencediagrams.com/
 
+
+```
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_notes
 
 note over server:
@@ -49,7 +51,7 @@ note over browser:
 browser executes the event handler
 that renders notes to display
 end note
-
+```
 
 
 ## 0.5: Single page app
