@@ -16,6 +16,41 @@ Learn about the basics of HTML forms by reading Mozilla's tutorial: [Your first 
 
 Create a diagram depicting the situation where the user creates a new note on page https://fullstack-exampleapp.herokuapp.com/notes by writing something into the text field and clicking the submit button.
 
+### Solution
+
+![New note](0.4.new_note.png)
+
+By https://www.websequencediagrams.com/
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_notes
+
+note over server:
+server re-direct to 
+https://studies.cs.helsinki.fi/exampleapp/notes
+end note
+
+server-->browser: HTTP status 302 found, location: /exampleapp/notes
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes
+server-->browser: HTML-code
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+server-->browser: main.css
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
+server-->browser: main.js
+
+note over browser:
+browser starts executing js-code
+that requests JSON data from server
+end note
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+server-->browser: [{ content: "yoooo", date: "2022-07-10T14:11:16.354Z" }, ...]
+
+note over browser:
+browser executes the event handler
+that renders notes to display
+end note
+
+
 
 ## 0.5: Single page app
 
