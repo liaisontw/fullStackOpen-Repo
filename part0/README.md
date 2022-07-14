@@ -96,7 +96,7 @@ Create a diagram depicting the situation where user creates a new note using the
 
 ### Solution
 
-![New note](0.6.New note on Single page .png)
+![New note](0.6.NewNoteonSinglePage.png)
 
 By https://www.websequencediagrams.com/
 
