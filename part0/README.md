@@ -94,3 +94,28 @@ end note
 
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
 
+### Solution
+
+![New note](0.6.New note on Single page .png)
+
+By https://www.websequencediagrams.com/
+
+
+```
+title 0.6: New note on Single page app
+
+note over browser:
+When the form is submitted,
+spa.js adds new note and date to 'notes'.
+Then spa.js re-draw the form.
+Then spa.js sends HTTP POST request with 
+Content-Type in JSON format.
+end note
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+note over server:
+The server responds with status code '201 created'.
+No redirect request.
+end note
+server->browser: HTTP status code 201
+```
+
